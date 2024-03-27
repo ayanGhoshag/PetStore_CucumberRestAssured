@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 27 22:33:48 IST 2024","Wed Mar 27 22:33:56 IST 2024","8344","Regression Test Suite","G:/RestAssuredFrameWork/PetStoreApIAutomation","com.petstore.qa.TestRunner.myRunner","com.petstore.qa.TestRunner.myRunner","runScenario","Runs Cucumber Scenarios",""
+"broken","Tue Mar 26 00:56:36 IST 2024","Tue Mar 26 00:56:37 IST 2024","1379","Regression Test Suite","G:/RestAssuredFrameWork/PetStoreApIAutomation","com.petstore.qa.TestRunner.myRunner","com.petstore.qa.TestRunner.myRunner","runScenario","Runs Cucumber Scenarios",""
+"failed","Wed Mar 27 22:33:56 IST 2024","Wed Mar 27 22:33:58 IST 2024","1573","Regression Test Suite","G:/RestAssuredFrameWork/PetStoreApIAutomation","com.petstore.qa.TestRunner.myRunner","com.petstore.qa.TestRunner.myRunner","runScenario","Runs Cucumber Scenarios",""
